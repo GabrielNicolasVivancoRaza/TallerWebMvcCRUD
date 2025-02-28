@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-4">Tipo Medicamento</h1>
+<div class="mb-3">
+    <input type="text" id="txtTipoMedicamento" class="form-control" placeholder="Buscar medicamento" onkeyup="filtrarTiposMedicamento()">
+</div>
+<div id="divTable" class="mt-4"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalTipoMedicamento" tabindex="-1" aria-labelledby="modalTipoMedicamentoLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTipoMedicamentoLabel">Tipo de Medicamento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmGuardarTipoMedicamento" method="post" class="row g-3">
+                    <!-- ID y Nombre en la misma línea -->
+                    <div class="col-md-6">
+                        <label for="idTipoMedicamento" class="form-label">ID Tipo Medicamento</label>
+                        <input type="text" class="form-control" name="idTipoMedicamento" id="idTipoMedicamento" placeholder="ID del Tipo de Medicamento">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre del Tipo de Medicamento">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="descripcion" class="form-label">Descripción</label>
+                        <input type="text" class="form-control" name="descripcion" id="descripcion" placeholder="Descripción del Tipo de Medicamento">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="bi bi-x-circle"></i> Cerrar
+                </button>
+                <button type="button" class="btn btn-danger" onclick="GuardarCambiosTipoMedicamento()">
+                    <i class="bi bi-pencil-square"></i> Editar
+                </button>
+                <button type="button" class="btn btn-primary" onclick="GuardarTipoMedicamento()">
+                    <i class="bi bi-plus-circle"></i> Guardar
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-end mb-3">
+    Agrear nuevo medicamento: <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalTipoMedicamento">
+        <i class="bi bi-plus-circle"></i> Agregar
+    </button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="~/js/medicamento.js"></script>
+<script src="~/js/generic.js"></script>

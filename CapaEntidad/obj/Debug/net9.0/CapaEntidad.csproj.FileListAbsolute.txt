@@ -1,0 +1,60 @@
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Nueva carpeta\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\ssss\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Prueba de web\COPIA\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\WEB\mvc\PaginaWebSucursales\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll

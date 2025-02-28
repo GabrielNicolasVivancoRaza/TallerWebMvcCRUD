@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<h1 class="mb-4">Laboratorio</h1>
+
+
+
+<div id="divTable" class="mt-4"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalLaboratorio" tabindex="-1" aria-labelledby="modalLaboratorioLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLaboratorioLabel">Laboratorio</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmGuardarLaboratorio" method="post" class="row g-3">
+                    <!-- ID y Nombre en la misma línea -->
+                    <div class="col-md-6">
+                        <label for="idLaboratorio" class="form-label">ID Laboratorio</label>
+                        <input type="text" class="form-control" name="idLaboratorio" id="idLaboratorio" placeholder="ID Laboratorio">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre Laboratorio">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="descripcion" class="form-label">Dirección</label>
+                        <input type="text" class="form-control" name="direccion" id="direccion" placeholder="Dirección">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="bi bi-x-circle"></i> Cerrar
+                </button>
+                <button type="button" class="btn btn-danger" onclick="GuardarCambiosLaboratorio()">
+                    <i class="bi bi-pencil-square"></i> Editar
+                </button>
+                <button type="button" class="btn btn-primary" onclick="GuardarLaboratorio()">
+                    <i class="bi bi-plus-circle"></i> Guardar
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-end mb-3">
+    Agregar nuevo elemento: <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalLaboratorio">
+        <i class="bi bi-plus-circle"></i> Agregar
+    </button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<link href="~/css/tablas.css" rel="stylesheet" />
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/laboratorio.js"></script>

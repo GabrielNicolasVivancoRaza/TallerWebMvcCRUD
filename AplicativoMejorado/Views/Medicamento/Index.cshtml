@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Gestión de Medicamentos";
+}
+
+<h1 class="mb-4">Medicamentos</h1>
+
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Búsqueda de Medicamento</legend>
+
+    <form id="frmBusqueda" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="inputCodigo" class="form-label">Código</label>
+            <input type="text" class="form-control" name="codigo" id="inputCodigo" placeholder="Ingrese el código">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputNombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="inputNombre" placeholder="Ingrese el nombre">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputLaboratorio" class="form-label">Laboratorio</label>
+            <input type="text" class="form-control" name="idLaboratorio" id="inputLaboratorio" placeholder="Ingrese el ID del laboratorio">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputTipo" class="form-label">Tipo de Medicamento</label>
+            <input type="text" class="form-control" name="idTipoMedicamento" id="inputTipo" placeholder="Ingrese el ID del tipo de medicamento">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputUso" class="form-label">Uso</label>
+            <input type="text" class="form-control" name="uso" id="inputUso" placeholder="Ingrese el uso del medicamento">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputContenido" class="form-label">Contenido</label>
+            <input type="text" class="form-control" name="contenido" id="inputContenido" placeholder="Ingrese el contenido">
+        </div>
+
+        <div class="col-12 text-end mt-3">
+            <button type="button" class="btn btn-primary me-2" onclick="BuscarMedicamento()">
+                <i class="bi bi-search"></i> Buscar
+            </button>
+            <button type="button" class="btn btn-secondary" onclick="LimpiarMedicamento()">
+                <i class="bi bi-eraser"></i> Limpiar
+            </button>
+        </div>
+    </form>
+</fieldset>
+
+
+
+<div id="divTable" class="mt-4">
+</div>
+<link href="~/css/tablas.css" rel="stylesheet" />
+<script src="~/js/generic.js"></script>
+<script src="~/js/medicamentos.js"></script>
